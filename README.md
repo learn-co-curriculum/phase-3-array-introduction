@@ -32,7 +32,7 @@ If this was real life, Professor Snape would probably just write down all the st
 
 An array is like a list but in code form. It is a way for your program to store pieces of data as a *collection*. Arrays can contain any data types in any combination––strings, integers, other arrays, hashes, etc. 
 
-Arrays are declared by listing variable names or literals separated by commas (`,`) and wrapped in square brackets `[``]`. To save our four students from above into an array, we write that in our code like this:
+Arrays are declared by listing variable names or literals separated by commas (`,`) and wrapped in square brackets `[]`. To save our four students from above into an array, we write that in our code like this:
 
 ```ruby
 students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfoy"]
@@ -43,6 +43,3 @@ students = ["Harry Potter", "Ron Weasley", "Hermione Granger", "Draco Malfoy"]
 Arrays store information in list form. It's hard to imagine a program you will write in which you *won't* be dealing with collections of data. Whether you're making a command line game or writing a large-scale web application with many users, data is the name of the game. You may need to list the players of your game and their scores, you may need to list the users of your application. You might have an application that connects doctors and their patients and therefore lists the patients of an individual doctor. This list goes on (pun intended). 
 
 Arrays allow us to store a collection of information in one organized place. Arrays can be named, i.e. set equal to a variable, and we can access data from an array, add data to an array or change the data that is already stored in an array. 
-
-
-
