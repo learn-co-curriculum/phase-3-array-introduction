@@ -9,7 +9,7 @@
 
 Imagine you are going apple picking. It's a beautiful fall day and you're picking apple after apple. However, you only have two hands. You're holding 2, 3, 4, even 5 apples but you just can't carry any more. Luckily, you've brought along a basket to contain your apples. 
 
-An array is like a basket––it is a container for a collection of data. Let's take a closer look with the help of the following example.
+An array is like a basket — it is a container for a collection of data. Let's take a closer look with the help of the following example.
 
 So far, we've used variables to store information. For example, I could create a variable called `my_name` and set it equal to my name: `my_name = "Severus Snape"`. However, variables only allow us to store one piece of information at a time. 
 
@@ -30,7 +30,7 @@ If this was real life, Professor Snape would probably just write down all the st
 
 ### Array Definition
 
-An array is like a list but in code form. It is a way for your program to store pieces of data as a *collection*. Arrays can contain any data types in any combination––strings, integers, other arrays, hashes, etc. 
+An array is like a list but in code form. It is a way for your program to store pieces of data as a *collection*. Arrays can contain any data types in any combination — strings, integers, other arrays, hashes, etc. 
 
 Arrays are declared by listing variable names or literals separated by commas (`,`) and wrapped in square brackets `[]`. To save our four students from above into an array, we write that in our code like this:
 
