@@ -1,4 +1,4 @@
-# Array Introduction
+# Introduction to Arrays
 
 ## Objectives
 
